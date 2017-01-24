@@ -33,6 +33,14 @@ to change a project:
   5. push to personal fork on github (not to main project) using credentials
   6. send pull request to main project owner using GUI
 
+(To compare with sourceforge -- this would usually involve:
+  1. svn download project from sourceforge (using GUI)
+  2. make changes
+  3. either a) email patch to project maintainer or
+            b) beg project maintainer to give you commit priviledge, then svn commit 
+)
+
+
 Warning: if you make subsequent pushes to yoru personal fork after sending the pull request, these will automatically be included in the pull request!  eg. you might fix a bug, push, send pull req, then test a crazy experiment on your own fork the next week . If the upstairs maintainer doesn't read their email for a week and opens your pull request after your crazy experiment, then the crazy experiment will appear in it as well as the original bug fix.   Soultions to this include:
    1. make multiple branches inside your personal fork, for master and CraszyExperiment
    2. make two personal forks, one for bugfix and one for crazyexperiment, where crazyexperiment is a second fork off of the first bugfix fork.
