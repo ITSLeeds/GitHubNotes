@@ -11,16 +11,15 @@ ITSLeeds is a "team"
 
 GitHub is not free software - it is a propriatory, for-profit web site
 it adds a social-network like web layer to regular git
-private projectss - are free to academic emails only, charges otherwise
+private projects - are free to academic emails only, charges otherwise
 	(not prvate projs as a team - only as individual)
 	can invite compnay partners etc if created by academic for free
 
-github has no download metric like sourcefroge - instead star clicks from named users
+github has no download metric like sourcefroge - instead star clicks / likes from named users
 
 "github desktop" app - to sync local disc with github - like dropbox
 	linux -- no desktop app, just use regular git cmds
 	use as dropbox replacement (but would need to write own autosync deamon?)
-
 
 to access ITSLeeds team:
 got to github home page (not personal profile) then dropdon for ITSLeeds
