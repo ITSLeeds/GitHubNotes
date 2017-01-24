@@ -1,7 +1,7 @@
 # GitHubNotes
 
 
-robin's github page:
+ITS github team page:
 https://github.com/itsleeds
 
 ITSLeeds is a "team"
