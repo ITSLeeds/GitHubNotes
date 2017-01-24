@@ -1,5 +1,2 @@
 # GitHubNotes
-edit by charles
-Notes on Git XX Hub
-thsi is my second change
-edit by charles
+This is a simple test project writing up notes from our meeting to learn about GitHub.  That is so meta.
