@@ -70,21 +70,21 @@ branching is an SVN and git level concept; forking is a gitHUB level concept. (a
 
 * How to update your own fork with changes made to the main team version
 
-git clone https://github.com/charles-fox/GitHubNotes.git
-git remote add upstream https://github.com/ITSLeeds/GitHubNotes.git       #tells git that there is a main "remote" version of the repo as well as the fork
-git remote -v         #check its there
-git fetch upstream    #brings in remote changes to a local branch called upstream/master
-remote: Counting objects: 17, done.
-remote: Compressing objects: 100% (12/12), done.
-remote: Total 17 (delta 3), reused 16 (delta 2), pack-reused 0
-Unpacking objects: 100% (17/17), done.
-From https://github.com/ITSLeeds/GitHubNotes
- * [new branch]      master     -> upstream/master
- * [new branch]      test-pull-request -> upstream/test-pull-request
-git checkout master
-Already on 'master'
-Your branch is up-to-date with 'origin/master'.
-git merge upstream/master         #merge changes from upstream/master into local clone
-git push origin master		  #store changes to my fork
+	git clone https://github.com/charles-fox/GitHubNotes.git
+	git remote add upstream https://github.com/ITSLeeds/GitHubNotes.git       #tells git that there is a main "remote" version of the repo as well as the fork
+	git remote -v         #check its there
+	git fetch upstream    #brings in remote changes to a local branch called upstream/master
+	remote: Counting objects: 17, done.
+	remote: Compressing objects: 100% (12/12), done.
+	remote: Total 17 (delta 3), reused 16 (delta 2), pack-reused 0
+	Unpacking objects: 100% (17/17), done.
+	From https://github.com/ITSLeeds/GitHubNotes
+	 * [new branch]      master     -> upstream/master
+	 * [new branch]      test-pull-request -> upstream/test-pull-request
+	git checkout master
+	Already on 'master'
+	Your branch is up-to-date with 'origin/master'.
+	git merge upstream/master         #merge changes from upstream/master into local clone
+	git push origin master		  #store changes to my fork
 
-(it is quicker just to delete your fork and fork a new one off the main project ?)
+	(it is quicker just to delete your fork and fork a new one off the main project ?)
