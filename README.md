@@ -30,8 +30,8 @@ Alternatives to Github:
   - GitLab - opensource community version that you can host yourself
     - but criticised for pushing propriatory "enterprize" version off it
   - just use git -- but github's pull req managment and social net are quite nice
-  - maybe one day someone will link up GNUSocial to Savannah and make a more similar competitor
-
+  - maybe one day someone will link up GNUSocial to Savannah and make a more similar competitor (project, anyone?)
+  - see https://en.wikipedia.org/wiki/Comparison_of_source_code_hosting_facilities   for full list
 
 github has no download metric like sourcefroge - instead star clicks / likes from named users
 
