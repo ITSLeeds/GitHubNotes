@@ -8,7 +8,7 @@ ITSLeeds is a "team"
 	R4TS is a repo (project) (like a sourceforge project)
 	GitHubNotes is another repo (project) containing these notes
 	each repo can have different owners
-	accounts for individuals in it
+	accounts for individuals in it (including wikipedia-like web-based editor)
 	ITSLeeds/GitHubNotes is owned and must be approved by Robin
 
 GitHub is not free software - it is a propriatory, for-profit web site
