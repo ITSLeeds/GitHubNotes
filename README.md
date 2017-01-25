@@ -54,8 +54,9 @@ to change a project:
 (To compare with sourceforge -- this would usually involve:
   1. svn download project from sourceforge (using GUI)
   2. make changes
-  3. either a) email patch to project maintainer or
-            b) beg project maintainer to give you commit priviledge, then svn commit 
+  3. either 
+    a) email patch to project maintainer or
+    b) beg project maintainer to give you commit priviledge, then svn commit 
 )
 
 
