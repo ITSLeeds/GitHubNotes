@@ -70,6 +70,7 @@ branching is an SVN and git level concept; forking is a gitHUB level concept. (a
 
 * How to update your own fork with changes made to the main team version
 
+```
 	git clone https://github.com/charles-fox/GitHubNotes.git
 	git remote add upstream https://github.com/ITSLeeds/GitHubNotes.git       #tells git that there is a main "remote" version of the repo as well as the fork
 	git remote -v         #check its there
@@ -88,3 +89,4 @@ branching is an SVN and git level concept; forking is a gitHUB level concept. (a
 	git push origin master		  #store changes to my fork
 
 	(it is quicker just to delete your fork and fork a new one off the main project ?)
+```
