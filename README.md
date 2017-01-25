@@ -25,6 +25,8 @@ To be wary of:
     - like other propriatory social nets we must presume they will be mining and selling this
     - like other propriatory social nets it may be hard to leave once linked your social cpaital into it
 
+RMS has said that GitHub is bad:   https://lists.gnu.org/archive/html/discuss-gnustep/2015-12/msg00169.html
+
 Alternatives to Github:
   - GNU Savannah - is completely open source kosher
   - GitLab - opensource community version that you can host yourself
