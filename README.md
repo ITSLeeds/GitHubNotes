@@ -12,10 +12,25 @@ ITSLeeds is a "team"
 	ITSLeeds/GitHubNotes is owned and must be approved by Robin
 
 GitHub is not free software - it is a propriatory, for-profit web site
-it adds a social-network like web layer to regular git
-private projects - are free to academic emails only, charges otherwise
-	(not prvate projs as a team - only as individual)
-	can invite compnay partners etc if created by academic for free
+It consists of:
+	1. free storage for public git repos
+	2. paid storage for private git repos (or free to academic addresses to hook us in)
+	3. a propriatory social net layer managing pull requests / contributor histories
+
+To be wary of:
+	GitHub is a for-profit VC backed company, the VCs value it at 2bn USD and will want to exit and take profits
+	how will they do this?
+	the value must all be in the social network data 
+		like other propriatory social nets we must presume they will be mining and selling this
+		like other propriatory social nets it may be hard to leave once linked your social cpaital into it
+
+Alternatives to Github:
+	GNU Savannah - is completely open source kosher
+	GitLab - opensource community version that you can host yourself
+		but criticised for pushing propriatory "enterprize" version off it
+	just use git -- but github's pull req managment and social net are quite nice
+	maybe one day someone will link up GNUSocial to Savannah and make a more similar competitor
+
 
 github has no download metric like sourcefroge - instead star clicks / likes from named users
 
