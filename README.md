@@ -28,7 +28,8 @@ To be wary of:
 Alternatives to Github:
   - GNU Savannah - is completely open source kosher
   - GitLab - opensource community version that you can host yourself
-    - but criticised for pushing propriatory "enterprize" version off it
+  - but criticised for pushing propriatory "enterprize" version off it
+  - SourceForge has a git version now (https://sourceforge.net/p/forge/documentation/Git/) though is traditionally used with svn (advantage: is all free software on the server side)
   - just use git -- but github's pull req managment and social net are quite nice
   - maybe one day someone will link up GNUSocial to Savannah and make a more similar competitor (project, anyone?)
   - see https://en.wikipedia.org/wiki/Comparison_of_source_code_hosting_facilities   for full list
