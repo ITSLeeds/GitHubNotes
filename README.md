@@ -15,7 +15,8 @@ GitHub is not free software - it is a propriatory, for-profit web site
 It consists of:
   1. free storage for public git repos
   2. paid storage for private git repos (or free to academic addresses to hook us in)
-  3. a propriatory social net layer managing pull requests / contributor histories
+  3. a propriatory pointy clicky web interface to git
+  4. a propriatory social net layer managing pull requests / contributor histories
 
 To be wary of:
   - GitHub is a for-profit VC backed company, the VCs value it at 2bn USD and will want to exit and take profits
